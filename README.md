@@ -1,0 +1,4 @@
+egs
+===
+
+Easy Guitar Scribe
